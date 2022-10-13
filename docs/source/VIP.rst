@@ -11,7 +11,7 @@ Cliquez sur le lien ci dessous
 
 2: inserer le code
 ~~~~
-.. image:: images/TutorialVIP1.png
+.. image:: Images/TutorialVIP1.png
         :height: 100
         :width: 200
         :scale: 100
@@ -19,7 +19,7 @@ Cliquez sur le lien ci dessous
 
 3: inserer mettre vos coordonées
 ~~~~
-.. image:: images/TutorialVIP2.png
+.. image:: Images/TutorialVIP2.png
         :height: 100
         :width: 200
         :scale: 100
