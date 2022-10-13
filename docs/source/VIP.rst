@@ -2,6 +2,7 @@ VIP
 ====
 S'inscrire sur la liste VIP
 ----
-se rendre au sur le formulaire
-------------------------------------------------------------
+1: se rendre au sur le formulaire
+______
+cool
 
