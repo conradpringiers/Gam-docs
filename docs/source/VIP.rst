@@ -1,5 +1,4 @@
 VIP
-===
-```
-eifjeiiez
-```
+====
+S'inscrire sur la liste VIP
+----
