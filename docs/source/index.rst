@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   Utiliser VIP
+   VIP
    Commander
